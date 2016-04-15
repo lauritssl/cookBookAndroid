@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/lalan/Developer/Git/cookBookAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bd1e1781bbc9f8cd8f5612a2b1f52d76111e5b3c">
+        <dex dex="/Users/lalan/Developer/Git/cookBookAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d71eb4f7924742e0686a7e46499efdc43bfc7ed6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lalan/Developer/Git/cookBookAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/lalan/Developer/Git/cookBookAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_9a2190721d3edbe1efaa2d849dfec87f8fe0a69e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lalan/Developer/Git/cookBookAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/lalan/Developer/Git/cookBookAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_4d05cdc6641e0e9efc596edb62c0fe5a01bad8d4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lalan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/lalan/Developer/Git/cookBookAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_103c933b0e309fb51a42b3769fd6420283d57a6d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lalan/Developer/Git/cookBookAndroid/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="/Users/lalan/Developer/Git/cookBookAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.journeyapps-zxing-android-embedded-3.2.0_4c9c2ffab84f293f6cb693c159ba5c8b3d790da9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lalan/Developer/Git/cookBookAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="466bb7b4a284372419bbf876b1b1d9f0679db988">
+        <dex dex="/Users/lalan/Developer/Git/cookBookAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1eec4fc8cc99558988d97f54f56edb14d3e231ea/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lalan/Developer/Git/cookBookAndroid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/lalan/Developer/Git/cookBookAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_1c7a9ff34d3e65372a590964b5eeff5c687d360a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lalan/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.0/e019d15a13a9786f881141d2df6654b8510bce8b/core-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="/Users/lalan/Developer/Git/cookBookAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.0_19321a1220187d7bdab8b65976dfa478a56185d7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lalan/Developer/Git/cookBookAndroid/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/lalan/Developer/Git/cookBookAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_32d408ac2c8f6341cc7e792aef5be36927edf8cb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lalan/Developer/Git/cookBookAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/lalan/Developer/Git/cookBookAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_5e5cb9a306adc75963e9bccbb279d07b59855396/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lalan/Developer/Git/cookBookAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/lalan/Developer/Git/cookBookAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_605ea5c5b540c402b322955fa655faad16598e52/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lalan/Developer/Git/cookBookAndroid/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/lalan/Developer/Git/cookBookAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_440c89c5fa8683727879f4f6ccb1c952969837df/classes.dex" />
+    </item>
+
+</items>
